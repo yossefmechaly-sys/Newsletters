@@ -37,9 +37,11 @@ Content-Type: multipart/related;
 --===============3032391822934483524==
 Content-Type: text/html; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
 
 <!doctype html>
-<html lang=3D"fr" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<html lang=3D"fr" xmlns:o=3D"urn:schemas-microsoft-com:office:office" style=
+=3D"background-color:#ffffff;">
 <head>
   <meta charset=3D"utf-8">
   <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
@@ -53,8 +55,11 @@ Content-Transfer-Encoding: quoted-printable
 iceDocumentSettings></xml>
   <![endif]-->
   <style>
+    html { margin:0; padding:0; height:auto !important; min-height:0 !importa=
+nt; background-color:#ffffff; }
     body { margin:0 !important; padding:0 !important; width:100% !important; =
--webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
+height:auto !important; min-height:0 !important; background-color:#ffffff; -w=
+ebkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
     table { border-collapse:collapse; border-spacing:0; mso-table-lspace:0pt;=
  mso-table-rspace:0pt; }
     td { padding:0; }
@@ -74,7 +79,8 @@ e:bicubic; }
     }
   </style>
 </head>
-<body style=3D"margin:0;padding:0;background-color:#2b1442;">
+<body style=3D"margin:0;padding:0;height:auto;min-height:0;background-color:#=
+ffffff;">
   <div style=3D"display:none;font-size:1px;line-height:1px;max-height:0;max-w=
 idth:0;opacity:0;overflow:hidden;mso-hide:all;">Tu n=E2=80=99as pas besoin de=
  tout faire toute seule. Rejoins la communaut=C3=A9 JMums, 100 % gratuit.</di=

@@ -21,3 +21,5 @@ Le visuel d’origine est conservé. Sur mobile, l’affiche s’adapte à l’�
 Les badges App Store et Google Play sont cliquables et ouvrent les fiches de l’application. Les liens du bas sont centrés et rapprochés sur mobile.
 
 Le QR code est également cliquable vers https://onelink.to/ndzn4z. Son contenu a été décodé et pointe déjà vers cette même adresse lors du scan.
+
+La newsletter se termine juste sous le lien Instagram, sans prolonger le fond violet jusqu’au bas de l’écran.
