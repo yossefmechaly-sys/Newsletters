@@ -1,0 +1,16 @@
+NEWSLETTER JMUMS
+
+newsletter-envoi.html : HTML pour votre outil d’envoi. Les quatre images utilisent leurs URL HTTPS publiques dans ce dépôt GitHub. Aucun remplacement d’URL n’est nécessaire.
+newsletter.html et images/ : version à ouvrir localement après extraction du ZIP ; gardez le dossier images à côté du fichier HTML.
+apercu-newsletter.html : aperçu autonome dans un navigateur, avec les images intégrées. Utilisez newsletter-envoi.html pour un envoi via un outil de newsletter.
+newsletter-jmums.eml : version email avec les images intégrées et une alternative texte, à ouvrir dans un logiciel de messagerie compatible. La procédure pour l’utiliser comme modèle dépend du logiciel. Aucun destinataire n’est renseigné et aucun email n’a été envoyé.
+
+Pour l’envoi, importez newsletter-envoi.html dans votre outil de newsletter, puis renseignez votre expéditeur, votre objet et votre pied de page habituel.
+
+L’affiche est reproduite à l’identique sur ordinateur, avec une largeur maximale de 640 px. Sur mobile, elle s’adapte à la largeur disponible et les trois liens du bas s’affichent sur des lignes séparées.
+
+Affiche et site : https://www.jmums.com/
+Facebook : https://www.facebook.com/JMumsCommunity/
+Instagram : https://www.instagram.com/jmums_community/
+
+Vérifications réalisées : restitution exacte des pixels de l’affiche en assemblant les quatre découpes, rendu Chromium de 320 à 1 000 px, quatre zones cliquables, archive ZIP et images intégrées au fichier EML. Le rendu n’a pas été testé dans chaque logiciel de messagerie.
