@@ -16,3 +16,9 @@ Instagram : https://www.instagram.com/jmums_community/
 Vérifications réalisées : restitution exacte des pixels de l’affiche en assemblant les quatre découpes, rendu Chromium de 320 à 1 000 px, quatre zones cliquables, archive ZIP et images intégrées au fichier EML. Le rendu n’a pas été testé dans chaque logiciel de messagerie.
 
 Mise à jour : les marges des trois images de liens sont retirées sur mobile ; chaque icône avec son texte est désormais centré sur l’écran. La disposition d’origine sur ordinateur est conservée.
+
+Mise à jour : les badges App Store et Google Play disposent de leurs liens directs. Les liens du bas sont rapprochés sur mobile, avec des zones tactiles de 44 px de hauteur.
+App Store : https://apps.apple.com/il/app/jmums/id6803116602
+Google Play : https://play.google.com/store/apps/details?id=com.jmums.app
+
+Le QR code est également cliquable vers https://onelink.to/ndzn4z. Son contenu a été décodé et pointe déjà vers cette même adresse lors du scan.
