@@ -14,3 +14,5 @@ Facebook : https://www.facebook.com/JMumsCommunity/
 Instagram : https://www.instagram.com/jmums_community/
 
 Vérifications réalisées : restitution exacte des pixels de l’affiche en assemblant les quatre découpes, rendu Chromium de 320 à 1 000 px, quatre zones cliquables, archive ZIP et images intégrées au fichier EML. Le rendu n’a pas été testé dans chaque logiciel de messagerie.
+
+Mise à jour : les marges des trois images de liens sont retirées sur mobile ; chaque icône avec son texte est désormais centré sur l’écran. La disposition d’origine sur ordinateur est conservée.
