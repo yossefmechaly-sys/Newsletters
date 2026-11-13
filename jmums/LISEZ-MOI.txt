@@ -1,6 +1,6 @@
 NEWSLETTER JMUMS
 
-newsletter-envoi.html : HTML pour votre outil d’envoi. Les quatre images utilisent leurs URL HTTPS publiques dans ce dépôt GitHub. Aucun remplacement d’URL n’est nécessaire.
+newsletter-envoi.html : HTML pour votre outil d’envoi. Les images utilisent leurs URL HTTPS publiques dans ce dépôt GitHub. Aucun remplacement d’URL n’est nécessaire.
 newsletter.html et images/ : version à ouvrir localement après extraction du ZIP ; gardez le dossier images à côté du fichier HTML.
 apercu-newsletter.html : aperçu autonome dans un navigateur, avec les images intégrées. Utilisez newsletter-envoi.html pour un envoi via un outil de newsletter.
 newsletter-jmums.eml : version email avec les images intégrées et une alternative texte, à ouvrir dans un logiciel de messagerie compatible. La procédure pour l’utiliser comme modèle dépend du logiciel. Aucun destinataire n’est renseigné et aucun email n’a été envoyé.
@@ -13,9 +13,9 @@ Affiche et site : https://www.jmums.com/
 Facebook : https://www.facebook.com/JMumsCommunity/
 Instagram : https://www.instagram.com/jmums_community/
 
-Vérifications réalisées : restitution exacte des pixels de l’affiche en assemblant les quatre découpes, rendu Chromium de 320 à 1 000 px, quatre zones cliquables, archive ZIP et images intégrées au fichier EML. Le rendu n’a pas été testé dans chaque logiciel de messagerie.
+Vérifications réalisées : restitution exacte des pixels de l’affiche en assemblant ses différentes découpes, rendu Chromium de 320 à 1 000 px, liens de l’affiche, des réseaux sociaux, des boutiques et du QR code, archive ZIP et images intégrées au fichier EML. Le rendu n’a pas été testé dans chaque logiciel de messagerie.
 
-Mise à jour : les marges des trois images de liens sont retirées sur mobile ; chaque icône avec son texte est désormais centré sur l’écran. La disposition d’origine sur ordinateur est conservée.
+Mise à jour : les marges des trois images de liens sont retirées sur mobile ; chaque icône avec son texte est aligné à gauche, sur la même marge que le texte de l’affiche. La disposition d’origine sur ordinateur est conservée.
 
 Mise à jour : les badges App Store et Google Play disposent de leurs liens directs. Les liens du bas sont rapprochés sur mobile, avec des zones tactiles de 44 px de hauteur.
 App Store : https://apps.apple.com/il/app/jmums/id6803116602
