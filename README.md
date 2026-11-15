@@ -23,3 +23,5 @@ Les badges App Store et Google Play sont cliquables et ouvrent les fiches de l�
 Le QR code est également cliquable vers https://onelink.to/ndzn4z. Son contenu a été décodé et pointe déjà vers cette même adresse lors du scan.
 
 La newsletter se termine juste sous le lien Instagram, sans prolonger le fond violet jusqu’au bas de l’écran.
+
+Un lien de visualisation en ligne est affiché au-dessus de la newsletter : https://jerusalem-info.com/newsletters/jmums.html
